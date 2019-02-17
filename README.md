@@ -6,3 +6,7 @@
 * Vibration monitoring with threshold value
 
 
+# Visual monitoring
+#### 
+# Audio monitoring
+![System setup](/AudioMonitoring_3D_AI.png)
