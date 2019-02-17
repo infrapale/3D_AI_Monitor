@@ -9,4 +9,4 @@
 # Visual monitoring
 #### 
 # Audio monitoring
-![System setup](/AudioMonitoring_3D_AI.png)
+![System setup](/AudioMonitoring_3D_AI.PNG)
